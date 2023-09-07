@@ -1,0 +1,14 @@
+{
+  "name": "learning",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/App.js",
+  "scripts": {
+    "start": "node src/App.js"
+  },
+  "author": "Berit",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
